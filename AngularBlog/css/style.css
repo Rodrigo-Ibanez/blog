@@ -1,0 +1,29 @@
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    width: 60%;
+}
+.ng-invalid.ng-dirty {
+    border-color: rgb(126, 43, 43);
+}
+.ng-valid.ng-dirty {
+    border-color: rgb(14, 55, 14);
+}
+article.blogPost {
+    border-bottom: rgb(252, 249, 249);
+    border-width: 3px;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.viewComments a, a:visited, a:active {
+    color:rgb(77, 29, 29);
+}
+.viewComments span {
+    font-weight: bold;
+    color: rgb(73, 73, 118);
+}
